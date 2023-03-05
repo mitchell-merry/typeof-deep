@@ -1,0 +1,37 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`deepTypeof > snapshot test1 1`] = `
+[
+  {
+    "_id": "string",
+    "about": "string",
+    "address": "string",
+    "age": "number",
+    "balance": "string",
+    "company": "string",
+    "email": "string",
+    "eyeColor": "string",
+    "favoriteFruit": "string",
+    "friends": [
+      {
+        "id": "number",
+        "name": "string",
+      },
+    ],
+    "gender": "string",
+    "greeting": "string",
+    "guid": "string",
+    "index": "number",
+    "isActive": "boolean",
+    "latitude": "number",
+    "longitude": "number",
+    "name": "string",
+    "phone": "string",
+    "picture": "string",
+    "registered": "string",
+    "tags": [
+      "string",
+    ],
+  },
+]
+`;

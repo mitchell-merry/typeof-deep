@@ -1,0 +1,14 @@
+{
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"test": "npm run vitest",
+		"vitest": "vitest"
+	},
+	"dependencies": {
+		"deep-equals": "^0.0.2"
+	},
+	"devDependencies": {
+		"vitest": "^0.29.2"
+	}
+}
