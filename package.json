@@ -1,5 +1,11 @@
 {
+	"name": "deep-typeof",
+	"version": "0.0.1",
+	"description": "Deeper typeof.",
+	"type": "module",
 	"main": "dist/index.js",
+	"author": "Mitchell Merry <mitchellmerry145@gmail.com>",
+	"license": "MIT",
 	"scripts": {
 		"build": "tsc",
 		"test": "npm run vitest",
