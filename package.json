@@ -1,5 +1,5 @@
 {
-	"name": "deep-typeof",
+	"name": "typeof-deep",
 	"version": "0.0.1",
 	"description": "Deeper typeof.",
 	"type": "module",
