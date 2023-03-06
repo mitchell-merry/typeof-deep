@@ -1,6 +1,6 @@
 {
 	"name": "typeof-deep",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Deeper typeof.",
 	"type": "module",
 	"main": "dist/index.js",
@@ -11,6 +11,9 @@
 		"test": "npm run vitest",
 		"vitest": "vitest"
 	},
+	"files": [
+		"dist"
+	],
 	"dependencies": {
 		"deep-equals": "^0.0.2"
 	},
